@@ -1,7 +1,6 @@
 # Principle Engineer
 **Experienced Engineer proficient in steering the implementation of AI-driven solutions for scalable systems, ensuring alignment with business objectives through predictive analytics. Recognized as a leading expert in AI/ML, providing valuable technical advice and encouraging innovation within organizations.**
 
-#### Technical Skills: Python, SQL, AWS
 
 ## Education								       		
 - M.C.A, Computer Science	| Visvesvaraya Technological University (2012_)	 			        		
