@@ -49,7 +49,7 @@
 - Contributed to system architecture decisions.
 
 
-##KEY PROJECTS 
+## KEY PROJECTS 
 - Quality Flow Anomaly Detection System (QFAS): Developed a QFAS using Python and Flask for a user-friendly interface, integrated Great Expectations for data quality assurance, employed AWS services (S3, EC2, CloudWatch), PostgreSQL for data storage, Apache Druid for real-time analytics, and Dagster for workflow orchestration. Addressing the anomaly detection as a classification problem, decision tree algorithm was applied to build predictive models, ensuring timely anomaly detection and minimizing downtime, thus optimizing product quality and operational efficiency.
 - AI/ML-based Supply Chain Demand Forecasting: Led end-to-end supply chain demand forecasting project, employing AI/ML techniques for inventory optimization. Integrated diverse data using ETL tools, deployed models with TensorFlow/Keras, deployed on AWS/GCP, and maintained with robust monitoring and CI/CD pipelines. Enhanced accuracy, minimized stockouts, and boosted customer satisfaction through collaboration across teams.
 Renewable Energy Monitoring Platform (REMP): Utilized an IoT-based solution aimed at providing comprehensive monitoring and analysis of renewable energy systems. As a Developer/Architect, the primary responsibility involves developing and integrating data pipelines from ground devices to databases, application development using Django, and constructing RESTful APIs. Additionally, the role entails DevOps responsibilities for deploying the complete application on the Google Cloud platform.
