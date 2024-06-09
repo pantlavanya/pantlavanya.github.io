@@ -57,3 +57,24 @@ Renewable Energy Monitoring Platform (REMP): Utilized an IoT-based solution aime
 - E-commerce Module Enhancement and Optimization: Developed and architected, encompassing extended permissions and return product features. Caching was configured using Aerospike, and existing components were optimized. The technologies employed included Django, MySQL, RabbitMQ, and Angular, deployed on Amazon Cloud infrastructure with RDS, S3, and EC2 services.
 - Efficient Project Description Tool & Management: Engineered and architected a Project Description Tool & Management system, integrating Python, MySQL, jQuery, AJAX, HTML, and CSS within the Laravel framework. Designed for content processing and management, empowering clients and project managers to efficiently process and share content.
 - Enhanced Translation Module Integration: Developed an enhanced Translation Tool Module using Python, Django, Pootle, and Jinja Template, facilitating localization of product descriptions in multiple languages with extended user modules, permissions, and writer organizations for document upload and verification.   
+
+
+## SKILLS
+- Operating system: Linux (Ubuntu)
+- Concepts Known: DBMS, Data Structure, RESTful API, Web Technologies
+- Programming Languages & Technologies: Python, Scala, C#, Jquery, AJAX, JSON, Angular, PHP, Java
+- Framework: Django, Airflow, Dagster, Kubeflow, dot.net Core(Open Source), Pyspark
+- Database: MYSQL, Cassandra, Influx, Druid(OLAP)
+- Cloud Platform: Amazon Web Services, Google Cloud
+- Others: Kafka, RabbitMQ, MQTT, MemCached, Databricks, k8s
+
+
+## ACTIVITIES/ACHIEVEMENTS/CERTIFICATIONS
+- Winner of District Level Science Exhibitions in 2003 and 2006.
+- Winner of State Level Science Exhibition in 2006.
+- Participant in State Level Cricket and Hockey Tournaments in 2002.
+
+
+## CONTRIBUTIONS
+- nem-reader: This library sets out to parse the NEM12(Australian interval metering data) and NEM13(Australian accumulated metering data) data files into a useful python object, for being used in other projects, modify the library to allow to read the file having multiple meter using one nmi.[1]     
+- pydruid: This library exposes API to create,execute and analyze Druid(OLAP) query. I have added feature to support sub-query using pydruid.[2]
