@@ -5,8 +5,8 @@
 ## Education								       		
 - M.C.A, Computer Science	| Visvesvaraya Technological University (2012_)	 			        		
 - B.C.A, Computer Science | Kumaon University (2009_)
-- Intermediate, P.C.M | The University of Texas at Dallas (2006_)
-- Matriculation, Science | The University of Texas at Dallas (2004_)
+- Intermediate, P.C.M. | Uttarakhand Board (2006_)
+- Matriculation, Science | Uttarakhand Board (2004_)
 
 ## Work Experience
 **Principal Engineer @ Noodle Analytics Pvt.Ltd (_October 2020 - Present_)**
