@@ -49,7 +49,7 @@
 - Contributed to system architecture decisions.
 
 
-## KEY PROJECTS 
+## Key Projects 
 - Quality Flow Anomaly Detection System (QFAS): Developed a QFAS using Python and Flask for a user-friendly interface, integrated Great Expectations for data quality assurance, employed AWS services (S3, EC2, CloudWatch), PostgreSQL for data storage, Apache Druid for real-time analytics, and Dagster for workflow orchestration. Addressing the anomaly detection as a classification problem, decision tree algorithm was applied to build predictive models, ensuring timely anomaly detection and minimizing downtime, thus optimizing product quality and operational efficiency.
 - AI/ML-based Supply Chain Demand Forecasting: Led end-to-end supply chain demand forecasting project, employing AI/ML techniques for inventory optimization. Integrated diverse data using ETL tools, deployed models with TensorFlow/Keras, deployed on AWS/GCP, and maintained with robust monitoring and CI/CD pipelines. Enhanced accuracy, minimized stockouts, and boosted customer satisfaction through collaboration across teams.
 Renewable Energy Monitoring Platform (REMP): Utilized an IoT-based solution aimed at providing comprehensive monitoring and analysis of renewable energy systems. As a Developer/Architect, the primary responsibility involves developing and integrating data pipelines from ground devices to databases, application development using Django, and constructing RESTful APIs. Additionally, the role entails DevOps responsibilities for deploying the complete application on the Google Cloud platform.
@@ -59,7 +59,7 @@ Renewable Energy Monitoring Platform (REMP): Utilized an IoT-based solution aime
 - Enhanced Translation Module Integration: Developed an enhanced Translation Tool Module using Python, Django, Pootle, and Jinja Template, facilitating localization of product descriptions in multiple languages with extended user modules, permissions, and writer organizations for document upload and verification.   
 
 
-## SKILLS
+## Skills
 - Operating system: Linux (Ubuntu)
 - Concepts Known: DBMS, Data Structure, RESTful API, Web Technologies
 - Programming Languages & Technologies: Python, Scala, C#, Jquery, AJAX, JSON, Angular, PHP, Java
@@ -69,12 +69,12 @@ Renewable Energy Monitoring Platform (REMP): Utilized an IoT-based solution aime
 - Others: Kafka, RabbitMQ, MQTT, MemCached, Databricks, k8s
 
 
-## ACTIVITIES/ACHIEVEMENTS/CERTIFICATIONS
+### Activities/Achievements/Certifications
 - Winner of District Level Science Exhibitions in 2003 and 2006.
 - Winner of State Level Science Exhibition in 2006.
 - Participant in State Level Cricket and Hockey Tournaments in 2002.
 
 
-## CONTRIBUTIONS
+### Contributions
 - nem-reader: This library sets out to parse the NEM12(Australian interval metering data) and NEM13(Australian accumulated metering data) data files into a useful python object, for being used in other projects, modify the library to allow to read the file having multiple meter using one nmi.[1]     
 - pydruid: This library exposes API to create,execute and analyze Druid(OLAP) query. I have added feature to support sub-query using pydruid.[2]
