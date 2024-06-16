@@ -3,3 +3,6 @@ logo: /assets/img/logo.jpg
 # #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+locale: en-US
+
+
